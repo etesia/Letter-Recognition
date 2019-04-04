@@ -12,4 +12,4 @@ There are three styles of letters.
 
 1. Using "cut.py" to preprocessing, cutting them to a single alphabet.
 2. Using "classifier.py" which flatten the alphabet image to a vector.
-3. Using "classifier.py" calculate cosine similarity between alphabet image and test sample image.
+3. Using "classifier.py" calculate cosine similarity between alphabet image and test image.
