@@ -1,5 +1,5 @@
 # Letter-Recognition
-### Using Python3.5
+>- Using Python3.5
 
 There are three styles of letters.
 
