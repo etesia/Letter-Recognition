@@ -10,6 +10,6 @@ There are three styles of letters.
 
 ![sample33](https://user-images.githubusercontent.com/12807657/55575906-91f94000-5742-11e9-9990-3edaca89f1f9.jpg)
 
-1. Run "cut.py" to preprocessing, cutting them to a single alphabet.
-2. Run "classifier.py" which flatten the alphabet image to a vector.
-3. Run "classifier.py" calculate cosine similarity between alphabet image and test image.
+1. Run "cut.py" to preprocess, cutting them to a single alphabet.
+2. Run "classifier.py" to flatten the alphabet image to a vector.
+3. Run "classifier.py" to calculate cosine similarity between alphabet image and test image.
